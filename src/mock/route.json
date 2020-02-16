@@ -1,0 +1,10 @@
+{
+    "/api/hot":"/hot",
+    "/api/asia":"/asia",
+    "/api/europe":"/europe",
+    "/api/northAmerica":"/northAmerica",
+    "/api/southAmerica":"/southAmerica",
+    "/api/oceania":"/oceania",
+    "/api/africa":"/africa",
+    "/api/antarctica":"/antarctica"
+}

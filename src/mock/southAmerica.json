@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "id":"001",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/66/36/431/100_150.jpg?1575357970",
+            "cityname":"瓦尔帕莱索与比尼亚德尔马",
+            "countryname":"智利"
+        },
+        {
+            "id":"002",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/bd/68/193/100_150.jpg?1575273580",
+            "cityname":"布宜诺斯艾利斯",
+            "countryname":"阿根廷"
+        },
+        {
+            "id":"003",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/a9/6b/409/100_150.jpg?1571646479",
+            "cityname":"圣地亚哥",
+            "countryname":"智利"
+        },
+        {
+            "id":"004",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/03/c6/252/100_150.jpg?1571644128",
+            "cityname":"圣保罗",
+            "countryname":"巴西"
+        }
+    ]
+}

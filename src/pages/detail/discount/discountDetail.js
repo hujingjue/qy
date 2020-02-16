@@ -1,0 +1,167 @@
+import styled from 'styled-components'
+
+export const DiscountDetailWrap = styled.div`
+   background:#F5F5F5;
+   height:100%;
+   position: relative;
+   section{
+       height:calc(100% - .54rem);
+       overflow-y:scroll;
+    .banner-wrap{
+       position: relative;
+       img{
+           width:100%;
+       }
+       i{
+           position:absolute;
+           left:.1rem;
+           top:.1rem;
+           color:#fff;
+           font-weight:bold;
+           font-size:.2rem;
+       }
+       span{
+           position: absolute;
+           left:.0;
+           bottom:.0;
+           color:#fff;
+           display:inline-block;
+           width:100%;
+           height:.4rem;
+           line-height:.4rem;
+           padding-left:.1rem;
+           background:linear-gradient(180deg,transparent 0,rgba(0,0,0,.3));
+           font-size:.12rem;
+       }
+   }
+   .title-wrap{
+       background:#fff;
+       padding:.1rem;
+       color:rgba(31,32,35,.8);
+       font-size:.16rem;
+       >div{
+           font-size:.12rem;
+           color:rgba(31,32,35,.4);
+           display:flex;
+           justify-content:space-between;
+           align-items:center;
+           .left{
+               display:flex;
+               align-items:center;
+               span:first-child{
+                   color:#ff7467;
+                   font-size:.2rem;
+               }
+               span:last-child{
+                   font-size:.14rem;
+                   color:#40c895;
+                   margin-left:.1rem;
+                   border-bottom:1px solid #40c895;
+               }
+           }
+       }
+   }
+   .active-wrap{
+       background:#fff;
+       margin-top:.2rem;
+       .active-box{
+           padding:0 .1rem;
+           height:.45rem;
+           >div{
+               height:100%;
+               line-height:.45rem;
+               span:first-child{
+                    padding:.02rem .05rem;
+                    background:#ff7467;
+                    color:#fff;
+                    font-weight:bold;
+                    border-radius:.05rem;
+                    font-size:.12rem;
+                    margin-right:.1rem;
+               }
+               span:last-child{
+                   color:rgba(31,32,35,.8);
+               }
+           }
+           .border-box{
+               border-bottom:1px solid #edeeee;
+           }
+       }
+   }
+   .time-wrap{
+       background:#fff;
+       margin-top:.2rem;
+       height:.72rem;
+       padding:.1rem;
+       >div{
+           i{
+               color:#40c895;
+               margin-right:.1rem;
+           }
+           span{
+               font-weight:bold;
+           }
+       }
+       p{
+           color:rgba(31,32,35,.4);;
+           font-size:.12rem;
+           margin-top:.1rem;
+       }
+   }
+   .confirm-wrap{
+       display:flex;
+       margin-top:.2rem;
+       padding:.1rem .1rem;
+       background:#fff;
+       >div:first-child{
+           width:.6rem;
+           color:#ff7467;
+           display:flex;
+           font-weight:bold;
+           align-items:center;
+           margin-right:.2rem;
+           i{
+               font-size:.2rem;
+               margin-right:.05rem;
+           }
+       }
+       >div:last-child{
+           flex:1;
+       }
+   }
+   
+   }
+   .footer-wrap{
+       height:.54rem;
+       width:100%;
+       display:flex;
+       align-items:center;
+       justify-content:space-between;
+       background:#737373;
+       padding-left:.2rem;
+       position:absolute;
+       bottom:0;
+       left:0;
+       >div:first-child{
+           display:flex;
+           align-items:center;
+           font-size:.18rem;
+           color:#fff;
+           i{
+               margin-right:.1rem;
+           }
+           div{
+               margin-left:.1rem;
+           }
+       }
+       >div:last-child{
+           width:30%;
+           color:#fff;
+           font-size:.2rem;
+           font-weight:bold;
+           line-height:.54rem;
+           text-align:center;
+           background:#ff7467;
+       }
+   }
+`

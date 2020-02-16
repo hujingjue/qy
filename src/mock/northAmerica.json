@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "id":"001",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/7e/ab/206/100_150.jpg?1571896955",
+            "cityname":"西雅图",
+            "countryname":"美国"
+        },
+        {
+            "id":"002",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/53/9f/237/100_150.jpg?1571824225",
+            "cityname":"华盛顿博物馆",
+            "countryname":"美国"
+        },
+        {
+            "id":"003",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/4b/04/785/100_150.jpg?1571653392",
+            "cityname":"尤卡坦半岛",
+            "countryname":"墨西哥"
+        },
+        {
+            "id":"004",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/5f/2c/720/100_150.jpg?1571649651",
+            "cityname":"亚利桑那州",
+            "countryname":"美国"
+        }
+    ]
+}

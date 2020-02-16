@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "id":"001",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/d6/7d/39/100_150.jpg?1574998832",
+            "cityname":"悉尼",
+            "countryname":"澳大利亚"
+        },
+        {
+            "id":"002",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/63/2c/823/100_150.jpg?1574649437",
+            "cityname":"凯恩斯及周边",
+            "countryname":"澳大利亚"
+        },
+        {
+            "id":"003",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/30/ef/652/100_150.jpg?1571282810",
+            "cityname":"基督城",
+            "countryname":"新西兰"
+        },
+        {
+            "id":"004",
+            "img":"https://guidepic.qyerstatic.com/upload/Guide_Info/70/5f/227/100_150.jpg?1571197552",
+            "cityname":"奥克兰",
+            "countryname":"新西兰"
+        }
+    ]
+}
